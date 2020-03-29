@@ -1,0 +1,19 @@
+*{padding:0;margin:0}
+body{   
+background:#f4f1e5;font-family:kulminoituvaregular,helvetica,sans-serif}
+#container{width:100%;margin:auto}
+#nav{width:100%;margin:50px auto;margin-bottom:0 }
+#nav ul li{margin:0;padding:0;overflow:hidden;}
+#nav ul li{float:right;list-style:none;margin-right:1em}
+#nav li a{color:#544738;text-decoration:none;float:right;font-size:25px;padding:12px}
+#nav li a:hover{color:#7eb9be}
+h1{margin: 20px 0px; padding:0px;}
+.odd a:hover{-webkit-transition:All .5s ease-in-out;-moz-transition:All .5s ease-in-out;-o-transition:All .5s ease-in-out;-webkit-transform:rotate(-10deg) scale(1.2);-moz-transform:rotate(-10deg) scale(1.2);-o-transform:rotate(-10deg) scale(1.2)}
+.even a:hover{-webkit-transition:All .5s ease-in-out;-moz-transition:All .5s ease-in-out;-o-transition:All .5s ease-in-out;-webkit-transform:rotate(10deg) scale(1.2);-moz-transform:rotate(10deg) scale(1.2);-o-transform:rotate(10deg) scale(1.2)}
+#mainhead{font-size:70px;}
+.link{text-decoration:none; color:green;}
+#post h1{font-size:70px;}
+#post p{font-size:28px;}
+#post pre{font-size:28px}
+#arnob {width:100%; height:auto;}
+
